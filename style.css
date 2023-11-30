@@ -1,0 +1,16 @@
+.box {
+    width: 90%;
+    height: 400px;
+    margin: 50px;
+    padding: 20px;
+    display: flex;
+}
+
+#next {
+    margin-left: 950px;
+}
+
+#previous {
+
+    margin-left: 100px;
+}
